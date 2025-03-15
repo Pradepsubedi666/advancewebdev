@@ -1,0 +1,6 @@
+node_modules/
+database.db
+*.sqlite3
+*.log
+.env
+.vscode/
